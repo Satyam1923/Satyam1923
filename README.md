@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am currently learning full stack web development<br>📬How to reach me https://www.linkedin.com/in/satyam-rathor-6a4b4a257<br>😊Fun fact "I thrive in social settings and love connecting with new people!"
+🔭I am currently learning full stack web development<br>😊Fun fact "I thrive in social settings and love connecting with new people!"
 
 
 ## 🌐 Socials:
