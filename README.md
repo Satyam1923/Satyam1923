@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Rathor</h1>
 <h3 align="center">A aspring full-stack web developer</h3>
 
-- 🌱 I’m currently learning **Full stack web development course**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/satyam-rathor-6a4b4a257**
 
